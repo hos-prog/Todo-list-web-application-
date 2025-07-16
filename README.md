@@ -2,15 +2,6 @@
 
 A simple, lightweight, and user-friendly Todo List web app that lets you **add**, **view**, **mark as completed**, and **delete** tasks. Tasks persist using browser `localStorage`, so your to-dos stay even after refreshing the page.
 
----
-
-## Demo
-
-> Showcase link (if hosted): `https://your-username.github.io/Todo-list-web-application-/`
-
-_(Optional: add a screenshot or demo video here)_
-
----
 
 ## Features
 
